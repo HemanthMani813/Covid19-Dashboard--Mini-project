@@ -1,0 +1,25 @@
+
+.footer {
+    background: black;
+    width: 100vw;
+    color: aqua;
+    padding-block: 2rem;
+}
+
+.footer__container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer__social{
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+}
+.footer__social a{
+    margin: 12px;
+    color: white;
+}

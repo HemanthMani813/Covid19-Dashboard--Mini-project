@@ -9,6 +9,7 @@ import Vaccination from './components/Vaccination'
 import NotFound from './components/NotFound'
 
 import './App.css'
+import HemanthFooter from './components/HemanthFooter';
 
 const App = () => (
   <Router>
@@ -18,7 +19,9 @@ const App = () => (
         <Route exact path="/about" component={About} />
         <Route exact path="/vaccination" component={Vaccination} />
         <Route component={NotFound} />
+        
       </Switch>
+      <HemanthFooter/>
     </Router>
   
 )
