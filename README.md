@@ -477,7 +477,10 @@ If you complete the main features of the project you can try out the below featu
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 75182f1693b0ca6251c19aa975967c62de530b1d
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
